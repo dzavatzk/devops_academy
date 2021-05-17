@@ -1,5 +1,5 @@
-# MALINKY
+# MALINKOVA ZMRZLINA
 
-**Potrebujeme urobit este jeden nakup** 
+**Potrebujeme urobit este jeden recept** 
 
-*Poznamka - kup vsetkeho raz tolko ako v jahodka.md*
+*Poznamka - kup vsetkeho 1 tolko ako v jahodka.md*
