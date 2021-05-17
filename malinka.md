@@ -1,5 +1,5 @@
-# MALINKY
+# LESNE OVOCIE
 
-**Potrebujeme urobit este jeden nakup** 
+**Potrebujeme urobit este dva nakupy** 
 
-*Poznamka - kup vsetkeho raz tolko ako v jahodka.md*
+*Poznamky - kup vsetkeho raz tolko ako v jahodka.md*
