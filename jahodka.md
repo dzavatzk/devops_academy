@@ -4,7 +4,7 @@
 
 *ZOZNAM*
 
-| OVOCIE | POCET |
+| OVOCICKO | KUSY |
 | ----- | ------|
 | jahoda | 5x |
 | jablko | 3x |
