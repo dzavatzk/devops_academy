@@ -1,6 +1,7 @@
 *.bin
 *.exe
-output
-temp
-./dir/mydir
+output/
+temp/
+~/dir/
+~/dir/mydir/
 temporary.*
